@@ -15,7 +15,7 @@
             @click="celebrate"
             class="bg-[#2ecc71] hover:bg-[#27ae60] hover:scale-110 text-white text-2xl font-bold py-3 px-11 rounded-xl transition-all duration-200 shadow-[0_4px_0_#27ae60] active:shadow-none active:translate-y-1"
           >
-            Next ❤️
+            Next ! ❤️
           </button>
         </div>
       </div>
