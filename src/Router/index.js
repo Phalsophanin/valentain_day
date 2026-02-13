@@ -1,4 +1,5 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router';
+
 import index from '../components/index.vue';
 
 
@@ -15,7 +16,7 @@ const routes = [
 ]
 // Create the router instance
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(),
   routes,
 })
 
